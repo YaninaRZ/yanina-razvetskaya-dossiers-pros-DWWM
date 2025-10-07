@@ -1,5 +1,5 @@
 # Dossiers professionnels DWWM  
-Ce dépôt contient l’ensemble des documents relatifs à ma préparation au titre professionnel **Développeur Web et Web Mobile (DWWM)**.  
+Ce dépôt regroupe l’ensemble des documents constituant mon dossier professionnel pour le **Titre Professionnel Développeur Web et Web Mobile (DWWM)**.  
 
 ## 📂 Contenu  
 - Dossier Professionnel (DP)  
