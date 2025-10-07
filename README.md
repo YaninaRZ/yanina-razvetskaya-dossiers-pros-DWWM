@@ -3,7 +3,8 @@ Ce dépôt regroupe l’ensemble des documents constituant mon dossier professio
 
 ## 📂 Contenu  
 - Dossier Professionnel (DP)  
-- Dossier de projet (application e-commerce Skinn)  
+- Dossier de projet (application e-commerce Skinn)
+- Résumé du projet
 
 ## 🧑‍💻 Présentation  
 Projet réalisé dans le cadre de la formation DWWM à **La Plateforme**, Marseille.  
