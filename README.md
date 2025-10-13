@@ -7,7 +7,7 @@ Ce dépôt regroupe l’ensemble des documents constituant mon dossier professio
 - Résumé du projet
 
 ## 🧑‍💻 Présentation  
-Projet réalisé dans le cadre de la formation DWWM à **La Plateforme**, Marseille.  
+Projet réalisé dans le cadre de la formation DWWM à **La Plateforme**, Cannes.  
 Candidate : *Yanina Razvetskaya*  
 
 # yanina-razvetskaya-dossiers-pros-DWWM
